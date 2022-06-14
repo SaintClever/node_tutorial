@@ -1,0 +1,5 @@
+Here is the result:
+Hello from first.txt
+Hello from second.txt
+Hello append!!!
+Hello append!!!
